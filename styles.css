@@ -7,3 +7,7 @@ body{
 a{
     color:auto;
 }
+
+.large{
+    font-size: 128px;
+}
