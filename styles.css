@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+    color: blueviolet;
+    background-image: url("/CHECKER.png");
+    background-repeat: repeat;
+}
+a{
+    color:auto;
+}
